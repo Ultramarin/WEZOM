@@ -1,2 +1,4 @@
 /.idea
-*/wezom/migrations
+*/wezom/migrations/
+*/venv
+*/wezom/__pycache__
